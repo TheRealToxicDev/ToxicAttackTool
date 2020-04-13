@@ -1,4 +1,6 @@
 # TOXIC ATTACK TOOL
+
+* I am **NOT** Responsible for any backlash caused by Malicious use of the Tool.
                                                                                         
 ### How To Use?
 
