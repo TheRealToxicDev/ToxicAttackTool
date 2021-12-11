@@ -1,7 +1,7 @@
 # TOXIC ATTACK TOOL
 
 * I am **NOT** Responsible for any backlash caused by Malicious use of the Tool.
-* This tool was made strictly for educational and is not promoted or maintained.                                 
+* This tool was made strictly for educational purposes and is not promoted or maintained.                                 
                                                       
 ### How To Use?
 
